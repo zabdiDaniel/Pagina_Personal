@@ -1,0 +1,19 @@
+
+/* Estilos para los enlaces */
+
+
+
+
+
+a {
+  text-decoration: none;
+  /* Quitar subrayado */
+  color: #ffffff;
+  font-size: 20px;
+}
+
+table {
+  font-family: 'Oswald', sans-serif;
+  font-size: 5px;
+}
+

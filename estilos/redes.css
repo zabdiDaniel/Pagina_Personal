@@ -1,0 +1,26 @@
+h2{
+    color: #176B87;
+    font-size: 36px;
+}
+
+p{
+
+    color: #176B87;
+    font-size: 18px;
+
+}
+
+
+
+.mis-redes {
+    text-align: center; /* Centrar el texto e imágenes horizontalmente */
+  }
+  
+  .tablas {
+    margin: 0 auto; /* Centrar la tabla horizontalmente */
+  }
+  
+  .tablas td {
+    padding: 10px; /* Añade espacio entre las celdas */
+  }
+  
